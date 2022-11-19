@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Spense2">
+        <item>Food</item>
+        <item>Drink</item>
+        <item>Personal possession.</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998995419296",
+    "firebase_url": "https://expense-trip-management-default-rtdb.firebaseio.com",
+    "project_id": "expense-trip-management",
+    "storage_bucket": "expense-trip-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998995419296:android:8401eb73f451bf6561e9c5",
+        "android_client_info": {
+          "package_name": "com.example.myappfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998995419296-u0bm16v6gk6rvj63jscolt7o12e3suc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgjmZsJAB7zUqsTatD0667NEZS3hOips"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998995419296-u0bm16v6gk6rvj63jscolt7o12e3suc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
